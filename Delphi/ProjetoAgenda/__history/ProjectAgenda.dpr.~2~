@@ -1,0 +1,14 @@
+program ProjectAgenda;
+
+uses
+  Vcl.Forms,
+  UnitPrincipal in 'UnitPrincipal.pas' {Titulo};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TTitulo, Titulo);
+  Application.Run;
+end.
