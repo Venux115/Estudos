@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/17 19:14:23.000.996,=D:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/03/17 19:15:20.000.187,D:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\Users\User\Documents\Estudos\Delphi\primeiro_sistema\Unit2.dfm</Transaction>
+    <Transaction>2022/03/17 19:15:20.000.187,D:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\Users\User\Documents\Estudos\Delphi\primeiro_sistema\Unit2.pas</Transaction>
+    <Transaction>2022/03/17 19:15:23.000.251,D:\Users\User\Documents\Embarcadero\Studio\Projects\Project3.dproj=D:\Users\User\Documents\Estudos\Delphi\primeiro_sistema\Project3.dproj</Transaction>
+    <Transaction>2022/03/17 19:15:37.000.618,D:\Users\User\Documents\Estudos\Delphi\primeiro_sistema\Project3.dproj=D:\Users\User\Documents\Estudos\Delphi\primeiro_sistema\PrimeiroSistema.dproj</Transaction>
+    <Transaction>2022/03/17 19:15:53.000.642,D:\Users\User\Documents\Estudos\Delphi\primeiro_sistema\Unit2.dfm=D:\Users\User\Documents\Estudos\Delphi\primeiro_sistema\UnitPrincipal.dfm</Transaction>
+    <Transaction>2022/03/17 19:15:53.000.642,D:\Users\User\Documents\Estudos\Delphi\primeiro_sistema\Unit2.pas=D:\Users\User\Documents\Estudos\Delphi\primeiro_sistema\UnitPrincipal.pas</Transaction>
+  </Transactions>
+</BorlandProject>

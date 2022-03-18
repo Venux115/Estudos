@@ -1,0 +1,42 @@
+unit UnitPrincipal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TForm2 = class(TForm)
+    Titulo: TLabel;
+    Tiitulo_livro: TLabel;
+    Autor: TLabel;
+    Genero: TLabel;
+    Caixa_livro: TEdit;
+    Caixa_autor: TEdit;
+    Label1: TLabel;
+    radio_ingles: TRadioButton;
+    radio_espanhol: TRadioButton;
+    radio_portugues: TRadioButton;
+    checkbox_estoque: TCheckBox;
+    ComboBox_genero: TComboBox;
+    Li: TMemo;
+    Label2: TLabel;
+    Label3: TLabel;
+    CheckBox1: TCheckBox;
+    CheckBox2: TCheckBox;
+    CheckBox3: TCheckBox;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form2: TForm2;
+
+implementation
+
+{$R *.dfm}
+
+end.
