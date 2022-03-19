@@ -1,0 +1,16 @@
+program ProjectAgenda;
+
+uses
+  Vcl.Forms,
+  UnitPrincipal in 'UnitPrincipal.pas' {Titulo},
+  UnitDatabase in 'UnitDatabase.pas' {DataModule1: TDataModule};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TTitulo, Titulo);
+  Application.CreateForm(TDataModule1, DataModule1);
+  Application.Run;
+end.
