@@ -1,0 +1,1 @@
+Sistema não funcional, o projeto foi feito com intuito de familiazar-se com os componetes do Delphi.
